@@ -1,0 +1,6 @@
+name = "my-hono-project"
+compatibility_date = "2025-08-01"
+
+[[kv_namespaces]]
+binding = "KV"
+id = "d42a7a9fc2ff4080804ec70dad5aeded"

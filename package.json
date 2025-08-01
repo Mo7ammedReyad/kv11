@@ -1,0 +1,15 @@
+{
+  "name": "my-hono-project",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "start": "wrangler deploy"
+  },
+  "dependencies": {
+    "hono": "^4.0.0"
+  },
+  "devDependencies": {
+    "wrangler": "^3.56.0",
+    "typescript": "^5.4.0"
+  }
+}
