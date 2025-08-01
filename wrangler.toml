@@ -1,4 +1,4 @@
-name = "my-hono-project"
+name = "cf-js-health-fiyf"
 type = "javascript"
 main = "index.ts"
 compatibility_date = "2025-08-01"
