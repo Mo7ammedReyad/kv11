@@ -1,6 +1,9 @@
 name = "my-hono-project"
+type = "javascript"
+main = "index.ts"
 compatibility_date = "2025-08-01"
 
 [[kv_namespaces]]
 binding = "KV"
 id = "d42a7a9fc2ff4080804ec70dad5aeded"
+preview_id = "d42a7a9fc2ff4080804ec70dad5aeded"
